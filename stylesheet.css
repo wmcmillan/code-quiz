@@ -1,13 +1,17 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
 header {
     text-align: center;
-    color: blue;
+    color: orangered;
 }
 
 body {
-    background-color: grey;
+    background-color: darkgreen;
+    text-align: center;
 }
 
 main {
-    color: blue;
     text-align: center;
 }
