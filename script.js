@@ -13,4 +13,6 @@ function beginQuiz () {
     document.getElementById("rules").style.display = "none";
     document.getElementById("start").style.display = "none";
     document.getElementById("answerButtons").style.display = "";
+    document.getElementById("questions").style.display = "";
+
 }
